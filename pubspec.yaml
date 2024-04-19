@@ -101,11 +101,11 @@ flutter:
   # For details regarding fonts from package dependencies,
   # see https://flutter.dev/custom-fonts/#from-packages
 
-  fonts:
-    - family: f1
-      fonts:
-        - asset: fonts/Jacquar_24/Jacquard24-Regular.ttf
-
-    - family: f2
-      fonts:
-        - asset: fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf
+#  fonts:
+#    - family: f1
+#      fonts:
+#        - asset: fonts/Jacquar_24/Jacquard24-Regular.ttf
+#
+#    - family: f2
+#      fonts:
+#        - asset: fonts/Roboto_Mono/RobotoMono-VariableFont_wght.ttf

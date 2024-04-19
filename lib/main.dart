@@ -60,15 +60,13 @@ class _HomePageState extends State<HomePage> {
                     Navigator.pushNamed(context, "gridlist", arguments: e);
                   },
                   child: Container(
-                    margin: EdgeInsets.only(top: 10),
+                    margin: EdgeInsets.only(top: 10,left: 10,right: 10),
                     height: 80,
-                    width: 300,
+                    width: 400,
                     decoration: BoxDecoration(
                       color: Colors.white38,
-                      borderRadius: BorderRadius.horizontal(
-                        right: Radius.circular(30),
+                      borderRadius: BorderRadius.circular(15),
                       ),
-                    ),
                     child: Center(
                       child: Text(
                         e,
